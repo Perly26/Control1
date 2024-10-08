@@ -1,0 +1,21 @@
+
+
+//Contadores
+let a = 0
+let e = 0
+let i = 0
+let o = 0
+let u = 0
+
+let texto = +prompt("Ingrese un texto", '');
+
+for(let j = 0 , j <  ,  j++){
+}
+
+let letra = 
+
+if ( letra === a){
+    a++;
+} if else ( letra === e){
+    e++;
+}
